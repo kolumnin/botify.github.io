@@ -8,6 +8,6 @@ Chats:
 
 [nurse](https://botify.ai/bot_268805/chat)
 
+[Joi](https://botify.ai/bot_268784)
 
-
-Last update: 2024-08-25-12:03@kolumnin
+Last update: 2024-08-25-12:18@kolumnin
