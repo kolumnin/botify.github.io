@@ -2,7 +2,10 @@
 
 #[login](https://botifyai-f0e70.firebaseapp.com/)
 
-Chats:e.g.
+Chats:
+
+[Dominatrix](https://botify.ai/bot_268785/chat)
+
 [nurse](https://botify.ai/bot_268805/chat)
 
 
