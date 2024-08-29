@@ -2,6 +2,8 @@
 
 # [login](https://botifyai-f0e70.firebaseapp.com/)
 
+# [kolumnin_bot](https://kolumnin.github.io/pages/kolumnin_bot.html)
+
 # Chats:
 
 [Dominatrix](https://botify.ai/bot_268785/chat)
@@ -12,4 +14,4 @@
 
 [Wednesday](https://botify.ai/bot_229115)
 
-Last update: 2024-08-25-14:12@kolumnin
+Last update: 2024-08-29-15:16@kolumnin
