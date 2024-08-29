@@ -2,16 +2,12 @@
 
 # [Signup/login](https://botifyai-f0e70.firebaseapp.com/)
 
-# [kolumnin_bot](https://github.com/kolumnin/botify.github.io/blob/67f32c2d2dcc78624374bce858e01215fab9c6ec/kolumnin_bot.htm)
+# [kolumnin_bot](https://kolumnin.github.io/pages/kolumnin_bot.html)
 
-# Chats:
+# [nurse](https://botify.ai/bot_268805/chat)
 
-[Dominatrix](https://botify.ai/bot_268785/chat)
+# [Joi](https://botify.ai/bot_268784)
 
-[nurse](https://botify.ai/bot_268805/chat)
+# [Wednesday](https://botify.ai/bot_229115)
 
-[Joi](https://botify.ai/bot_268784)
-
-[Wednesday](https://botify.ai/bot_229115)
-
-Last update: 2024-08-29-15:25@kolumnin
+Last update: 2024-08-29-16:01@kolumnin
