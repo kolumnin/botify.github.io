@@ -1,4 +1,4 @@
-#[Index](https://kolumnin.github.io/botify.github.io/)
+# [INDEX](https://kolumnin.github.io/botify.github.io/)
 
 # [botify-framework.github.io](https://github.com/kolumnin/botify.github.io)
 
@@ -13,4 +13,4 @@
 
 # [Wednesday](https://botify.ai/bot_229115)
 
-Last update: 2024-08-29-16:01@kolumnin
+Last update: 2024-08-29-17:03@kolumnin
