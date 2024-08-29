@@ -2,7 +2,7 @@
 
 # [Signup/login](https://botifyai-f0e70.firebaseapp.com/)
 
-# [kolumnin_bot](https://kolumnin.github.io/pages/kolumnin_bot.html)
+# [kolumnin_bot](https://kolumnin.github.io/pages/kolumnin_bot.htm)
 
 # Chats:
 
