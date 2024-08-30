@@ -1,6 +1,6 @@
 # [INDEX](https://kolumnin.github.io/botify.github.io/)
 
-# [botify-framework.github.io](https://github.com/kolumnin/botify.github.io)
+# [botify-framework.github.io](https://github.com/botify-framework/botify-framework.github.io)
 
 # [Signup/login](https://botifyai-f0e70.firebaseapp.com/)
 
