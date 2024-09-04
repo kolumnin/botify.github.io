@@ -4,8 +4,6 @@
 
 # [Signup/login](https://botifyai-f0e70.firebaseapp.com/)
 
-# [kolumnin_bot]((https://github.com/botify-framework/botify-framework.github.io))
-
 #Characters
 # [nurse](https://botify.ai/bot_268805/chat)
 
