@@ -4,11 +4,4 @@
 
 # [Signup/login](https://botifyai-f0e70.firebaseapp.com/)
 
-#Characters
-# [nurse](https://botify.ai/bot_268805/chat)
-
-# [Joi](https://botify.ai/bot_268784)
-
-# [Wednesday](https://botify.ai/bot_229115)
-
-Last update: 2024-08-29-17:03@kolumnin
+Last update: 2024-09-04-08:03@kolumnin
